@@ -1,0 +1,26 @@
+table {
+	empty-cells:hide;
+	table-layout:fixed;
+	box-shadow:5px 10px 10px 10px ;
+	border-spacing: 8px;
+	border-radius: 15px;
+
+}	
+th, td {
+	border:5px green solid;
+	box-shadow:2px 2px 2px 2px ;
+	border-radius: 10px;
+	text-align: center;
+}
+caption{
+	background-color: lime;
+	border-radius: 15px;
+}
+body{
+	background-image: url("letöltés.jpg");
+	background-size: 100%;
+}
+ol{
+	list-style-type:upper-roman;
+	list-style-position: inside;
+}
